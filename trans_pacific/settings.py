@@ -29,7 +29,7 @@ SECRET_KEY = "JKASDHFOHWER09FWEFOD0DJ90ufndsoa"
 DEBUG = False
 # DEBUG = os.environ.get('DEBUG', 'False').lower() =='true'
 
-ALLOWED_HOSTS = ["www.trusttrackcouriers.com", "trusttrackcouriers.com", "127.0.0.1"]
+ALLOWED_HOSTS = ["www.trusttrackcouriers.com", "trusttrackcouriers.com"]
 # ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS').split(" ")
 
 
