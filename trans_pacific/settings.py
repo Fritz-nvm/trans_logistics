@@ -26,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "JKASDHFOHWER09FWEFOD0DJ90ufndsoa"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 # DEBUG = os.environ.get('DEBUG', 'False').lower() =='true'
 
 ALLOWED_HOSTS = ["www.trusttrackcouriers.com", "trusttrackcouriers.com", "127.0.0.1"]
